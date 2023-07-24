@@ -2,7 +2,7 @@
 <div class="container">
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
       <a href="index.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none" >
-      <img src="./E93B667C-9523-4B58-8CFA-5407FD6E2491.png" class = "rounded " style="color: #1E90FF; height: 50px; margin-right: 10px;" alt="">CiRA CORE automatic forest fire detection system with LINE chatbot
+      <img src="./E93B667C-9523-4B58-8CFA-5407FD6E2491.png" class = "rounded " style="color: #1E90FF; height: 50px; margin-right: 10px;" alt="">ระบบอัตโนมัติสำหรับตรวจจับ ป้องกัน และแจ้งเตือนไฟป่าผ่านไลน์แชทบอทด้วยแพลตฟอร์ม CiRA CORE
       </a>
 
       <ul class="nav nav-pills">
